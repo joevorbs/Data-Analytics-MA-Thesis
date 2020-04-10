@@ -1,0 +1,113 @@
+,level_0,level_1,corr
+0,US_Region_Other,US_Region_Other,1.0
+1,Has your employer ever discussed mental health as part of an employee wellness program?_Yes,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,0.5963667708072417
+2,How many employees does your company or organization have?_1-5,Are you self-employed?_Yes,0.5869142710819032
+3,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,Has your employer ever discussed mental health as part of an employee wellness program?_No,0.5572143783219969
+4,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,0.5142573243702089
+5,Would you be willing to discuss a mental health issue with your coworkers?_No,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_No,0.4979060692044771
+6,Does your employer provide mental health benefits?_No,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,0.47038056598160094
+7,Does your employer provide mental health benefits?_Yes,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,0.4527935496685616
+8,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,Do you think that discussing a physical health issue with your employer would have negative consequences?_No,0.4495857463321453
+9,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_No,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,0.4351482814502305
+10,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,Would you be willing to discuss a mental health issue with your coworkers?_Yes,0.4334432549023191
+11,Do you know the options for mental health care your employer provides?_Yes,Does your employer provide mental health benefits?_Yes,0.4278642680654052
+12,Has your employer ever discussed mental health as part of an employee wellness program?_Yes,Does your employer provide mental health benefits?_Yes,0.4128840648313626
+13,Does your employer provide resources to learn more about mental health issues and how to seek help?_Don't know,Has your employer ever discussed mental health as part of an employee wellness program?_Don't know,0.412369082580838
+14,"If you have a mental health condition, do you feel that it interferes with your work?_Sometimes",Have you sought treatment for a mental health condition?_Yes,0.40250792538861935
+15,Would you bring up a mental health issue with a potential employer in an interview?_Yes,Would you bring up a physical health issue with a potential employer in an interview?_Yes,0.3999888764021843
+16,Do you know the options for mental health care your employer provides?_Yes,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Yes,0.3882846923205044
+17,Country_United States,Does your employer provide mental health benefits?_Yes,0.3791270708404574
+18,Have you sought treatment for a mental health condition?_No,Do you have a family history of mental illness?_No,0.3783109098207226
+19,Do you know the options for mental health care your employer provides?_Not sure,Does your employer provide mental health benefits?_Don't know,0.377697338204454
+20,Do you feel that your employer takes mental health as seriously as physical health?_Yes,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,0.37530971379131023
+21,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,Do you think that discussing a physical health issue with your employer would have negative consequences?_Yes,0.37475353850380544
+22,Would you bring up a physical health issue with a potential employer in an interview?_No,Would you bring up a mental health issue with a potential employer in an interview?_No,0.3720547279706992
+23,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,Would you be willing to discuss a mental health issue with your coworkers?_No,0.3646078085650184
+24,Does your employer provide mental health benefits?_Don't know,Does your employer provide resources to learn more about mental health issues and how to seek help?_Don't know,0.35750289536217106
+25,Has your employer ever discussed mental health as part of an employee wellness program?_No,Does your employer provide mental health benefits?_No,0.3360886826191872
+26,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,Would you be willing to discuss a mental health issue with your coworkers?_Yes,0.3336839864651255
+27,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,Do you know the options for mental health care your employer provides?_Yes,0.3328709927251918
+28,Do you feel that your employer takes mental health as seriously as physical health?_Yes,How easy is it for you to take medical leave for a mental health condition?_Very easy,0.33231058377511047
+29,"If you have a mental health condition, do you feel that it interferes with your work?_Never",Have you sought treatment for a mental health condition?_No,0.32901940724377154
+30,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,Do you feel that your employer takes mental health as seriously as physical health?_No,0.3285729076587912
+31,Does your employer provide mental health benefits?_No,How many employees does your company or organization have?_1-5,0.32560078102712875
+32,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,How many employees does your company or organization have?_More than 1000,0.3201321065553004
+33,Are you self-employed?_Yes,Do you work remotely (outside of an office) at least 50% of the time?_Yes,0.31665061127024635
+34,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Yes,0.3159808177098745
+35,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Don't know,Does your employer provide mental health benefits?_Don't know,0.3147848458401158
+36,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,Do you think that discussing a physical health issue with your employer would have negative consequences?_No,0.3136688296152713
+37,Does your employer provide mental health benefits?_Yes,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Yes,0.3079087098469454
+38,Has your employer ever discussed mental health as part of an employee wellness program?_Yes,Do you know the options for mental health care your employer provides?_Yes,0.30718884492375576
+39,Do you work remotely (outside of an office) at least 50% of the time?_No,Are you self-employed?_No,0.30445216455938534
+2545,How easy is it for you to take medical leave for a mental health condition?_Somewhat difficult,How easy is it for you to take medical leave for a mental health condition?_Don't know,-0.30006385016566645
+2546,Do you work remotely (outside of an office) at least 50% of the time?_Yes,Are you self-employed?_No,-0.30445216455938534
+2547,"If you have a mental health condition, do you feel that it interferes with your work?_Rarely","If you have a mental health condition, do you feel that it interferes with your work?_Sometimes",-0.30562648499898015
+2548,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,Does your employer provide resources to learn more about mental health issues and how to seek help?_Don't know,-0.31649467572810286
+2549,Are you self-employed?_Yes,Do you work remotely (outside of an office) at least 50% of the time?_No,-0.31665061127024635
+2550,Would you bring up a mental health issue with a potential employer in an interview?_No,Would you bring up a physical health issue with a potential employer in an interview?_Yes,-0.3182392308533302
+2551,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Don't know,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_No,-0.3183855240979336
+2552,Gender_Female,Gender_Male,-0.3187705894602153
+2553,How many employees does your company or organization have?_More than 1000,Has your employer ever discussed mental health as part of an employee wellness program?_No,-0.3224017223455421
+2554,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,Would you bring up a mental health issue with a potential employer in an interview?_No,-0.32359695204476646
+2555,Would you bring up a mental health issue with a potential employer in an interview?_No,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,-0.32411767930893637
+2556,Does your employer provide mental health benefits?_No,Does your employer provide resources to learn more about mental health issues and how to seek help?_Don't know,-0.32593808225307
+2557,Does your employer provide mental health benefits?_Yes,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,-0.3271664923997859
+2558,Does your employer provide mental health benefits?_Yes,Do you know the options for mental health care your employer provides?_No,-0.32768757318821085
+2559,"If you have a mental health condition, do you feel that it interferes with your work?_Never",Have you sought treatment for a mental health condition?_Yes,-0.32901940724377154
+2560,Would you bring up a physical health issue with a potential employer in an interview?_No,Would you bring up a mental health issue with a potential employer in an interview?_Maybe,-0.33335621584311853
+2561,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,Has your employer ever discussed mental health as part of an employee wellness program?_Don't know,-0.3366423529805402
+2562,Does your employer provide mental health benefits?_Yes,Has your employer ever discussed mental health as part of an employee wellness program?_No,-0.337775074054264
+2563,How many employees does your company or organization have?_More than 1000,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,-0.34213188624385793
+2564,"If you have a mental health condition, do you feel that it interferes with your work?_Sometimes","If you have a mental health condition, do you feel that it interferes with your work?_Never",-0.3455406676164731
+2565,Country_United States,US_Region_Other,-0.3478026991102674
+2566,Would you bring up a physical health issue with a potential employer in an interview?_No,Would you bring up a physical health issue with a potential employer in an interview?_Yes,-0.354414153357747
+2567,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,-0.35526354981784763
+2568,Would you be willing to discuss a mental health issue with your coworkers?_No,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,-0.3688098261492889
+2569,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,Has your employer ever discussed mental health as part of an employee wellness program?_Yes,-0.36889187633770126
+2570,Do you feel that your employer takes mental health as seriously as physical health?_No,Do you feel that your employer takes mental health as seriously as physical health?_Yes,-0.37254764806241114
+2571,Do you think that discussing a physical health issue with your employer would have negative consequences?_No,Do you think that discussing a physical health issue with your employer would have negative consequences?_Yes,-0.3755671390876803
+2572,Country_United States,Does your employer provide mental health benefits?_No,-0.37679277578957915
+2573,Do you have a family history of mental illness?_No,Have you sought treatment for a mental health condition?_Yes,-0.3783109098207226
+2574,Would you bring up a mental health issue with a potential employer in an interview?_Yes,Would you bring up a mental health issue with a potential employer in an interview?_No,-0.381389096739497
+2575,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,Do you think that discussing a physical health issue with your employer would have negative consequences?_Maybe,-0.3879281426304827
+2576,Do you think that discussing a physical health issue with your employer would have negative consequences?_No,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,-0.3887465353751799
+2577,Would you bring up a physical health issue with a potential employer in an interview?_Maybe,Would you bring up a physical health issue with a potential employer in an interview?_Yes,-0.38956631230933464
+2578,Do you know the options for mental health care your employer provides?_Yes,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Don't know,-0.39015219143892926
+2579,How easy is it for you to take medical leave for a mental health condition?_Very easy,How easy is it for you to take medical leave for a mental health condition?_Don't know,-0.39796807735150785
+2580,"If you have a mental health condition, do you feel that it interferes with your work?_Sometimes",Have you sought treatment for a mental health condition?_No,-0.40250792538861935
+2581,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_No,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Some of them,-0.418314087906937
+2582,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_No,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,-0.41867525945097717
+2583,Do you know the options for mental health care your employer provides?_Yes,Do you know the options for mental health care your employer provides?_Not sure,-0.424977230053454
+2584,Do you think that discussing a mental health issue with your employer would have negative consequences?_Maybe,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,-0.42963423619591234
+2585,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,Do you think that discussing a mental health issue with your employer would have negative consequences?_Yes,-0.43910992215832967
+2586,Does your employer provide mental health benefits?_No,Does your employer provide mental health benefits?_Don't know,-0.45045797760921774
+2587,Has your employer ever discussed mental health as part of an employee wellness program?_No,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,-0.45363185496260433
+2588,How easy is it for you to take medical leave for a mental health condition?_Somewhat easy,How easy is it for you to take medical leave for a mental health condition?_Don't know,-0.4656746086969452
+2589,Do you know the options for mental health care your employer provides?_No,Do you know the options for mental health care your employer provides?_Not sure,-0.4688527974343818
+2590,Do you know the options for mental health care your employer provides?_Yes,Does your employer provide mental health benefits?_Don't know,-0.48915135786321534
+2591,Country_United Kingdom,Country_United States,-0.5038980867762964
+2592,Does your employer provide mental health benefits?_No,Does your employer provide mental health benefits?_Yes,-0.50806854364533
+2593,US_Region_Other,US_Region_NY,-0.5087004389438197
+2594,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,Does your employer provide resources to learn more about mental health issues and how to seek help?_Yes,-0.5111298217680454
+2595,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Some of them,-0.5164778597893732
+2596,Does your employer provide mental health benefits?_Don't know,Does your employer provide mental health benefits?_Yes,-0.5401179276313085
+2597,Are you self-employed?_No,How many employees does your company or organization have?_1-5,-0.5560838682717927
+2598,Do you feel that your employer takes mental health as seriously as physical health?_No,Do you feel that your employer takes mental health as seriously as physical health?_Don't know,-0.5589881799735932
+2599,Do you feel that your employer takes mental health as seriously as physical health?_Don't know,Do you feel that your employer takes mental health as seriously as physical health?_Yes,-0.5612360805648152
+2600,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_Yes,Would you be willing to discuss a mental health issue with your direct supervisor(s)?_No,-0.56172990858898
+2601,Would you be willing to discuss a mental health issue with your coworkers?_Yes,Would you be willing to discuss a mental health issue with your coworkers?_Some of them,-0.5893876970746882
+2602,Has your employer ever discussed mental health as part of an employee wellness program?_Don't know,Has your employer ever discussed mental health as part of an employee wellness program?_No,-0.595425310457058
+2603,Do you know the options for mental health care your employer provides?_Yes,Do you know the options for mental health care your employer provides?_No,-0.6002935284905686
+2604,Do you think that discussing a mental health issue with your employer would have negative consequences?_No,Do you think that discussing a mental health issue with your employer would have negative consequences?_Maybe,-0.6226313527785877
+2605,Would you be willing to discuss a mental health issue with your coworkers?_No,Would you be willing to discuss a mental health issue with your coworkers?_Some of them,-0.6445649055958366
+2606,Does your employer provide resources to learn more about mental health issues and how to seek help?_Don't know,Does your employer provide resources to learn more about mental health issues and how to seek help?_No,-0.6535502634695503
+2607,Has your employer ever discussed mental health as part of an employee wellness program?_Yes,Has your employer ever discussed mental health as part of an employee wellness program?_No,-0.6700915915529765
+2608,Country_United States,Country_Other,-0.7146537189705104
+2609,Would you bring up a physical health issue with a potential employer in an interview?_Maybe,Would you bring up a physical health issue with a potential employer in an interview?_No,-0.7231472673739509
+2610,US_Region_CA,US_Region_Other,-0.8195974772296458
+2611,Gender_Other,Gender_Male,-0.823881067253389
+2612,Do you think that discussing a physical health issue with your employer would have negative consequences?_Maybe,Do you think that discussing a physical health issue with your employer would have negative consequences?_No,-0.8756993092169786
+2613,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Yes,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?_Don't know,-0.8886373980818143
+2614,Would you bring up a mental health issue with a potential employer in an interview?_Maybe,Would you bring up a mental health issue with a potential employer in an interview?_No,-0.8889548618552282
+2615,Are you self-employed?_Yes,Are you self-employed?_No,-0.9358735764263724
+2616,Have you sought treatment for a mental health condition?_Yes,Have you sought treatment for a mental health condition?_No,-1.0
